@@ -1,4 +1,4 @@
-# Restaurant-Review-Sentiment-Analysis-and-Feedback
+## Restaurant-Review-Sentiment-Analysis-and-Feedback
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
