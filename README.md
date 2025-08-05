@@ -37,4 +37,4 @@ NLTK: For text processing and sentiment analysis.
 Scikit-learn: For machine learning model building and evaluation.
 Matplotlib: For visualization.
 ### Notebook
-https://github.com/akash-prajapati123/Restaurant-Review-Sentiment-Analysis-and-Feedback/blob/main/nlp.ipynb
+https://github.com/shivamnitt26/Restaurant-Review-Sentiment-Analysis-and-Feedback/blob/main/nlp.ipynb
